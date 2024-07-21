@@ -1,0 +1,8 @@
+a = int(input("Enter first number: "))
+print("I'll call that number a ")
+b = int(input("Enter second number:  "))
+print("I'll call that b ")
+print("a+b is: " + str(a+b))
+print("a-b is: " + str(a-b))
+print("a*b is: " + str(a*b))
+print("a/b is: " + str((a/b)))
